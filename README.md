@@ -6,21 +6,7 @@
 <p dir="auto">İsmim Burçak, 28 yaşındayım. Evli ve 1 çocuk babasıyım. Endüstri Mühendisliği mezunuyum ve bir yandan Bilgisayar Programcılığı bölümünde okuyorum. Bir süredir yazılım ile ilgileniyorum ve bu işi sevdiğimi farkettim. Çalışmayı seven ve sürekli öğrenmeyi benimseyen biriyim. Bu amaçla konfor alanımdan çıkmaya ve 5 yıllık Üretim Planlama deneyimimi bir kenara bırakarak yazılım ile ilgili birşeyler yapmaya karar verdim. İŞKUR destekli İstanbul Topkapı Üniversitesi'nin Nitelikli Bilişim Uzmanı Yetiştirme programı kapsamında 800 saatlik eğitim aldım. Eğitim süresince C#, .NET Core MVC, .NET CORE Web API, HTML, CSS, BOOTSTRAP, JavaScript, React konularına hakim oldum.
   <br>
   Takım çalışmalarına yatkın olmak ile birlikte bulunduğum ortama çabuk adapte olabilmekteyim. Bilişim sektörü ve programlamaya yönelik almış olduğum eğitimlerin bana kazandırdığı nitelikleri kullanarak fayda sağlayabileceğim aynı zamanda bu kazanımlarımın üzerine koyarak kendimi geliştirebileceğim bir kurumda çalışmayı hedeflemekteyim.</p>
-  
-<!--
-**burcaktezcan/burcaktezcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
 
@@ -44,7 +30,7 @@ Here are some ideas to get you started:
     <a href="https://dotnet.microsoft.com/en-us/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"> </a>  
   </p>
-</details>
+
 
 
 
