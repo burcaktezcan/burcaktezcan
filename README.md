@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://dotnet.microsoft.com/en-us/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="40" height="40" style="max-width: 100%;"> </a>
     
     
