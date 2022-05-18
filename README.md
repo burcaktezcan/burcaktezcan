@@ -5,7 +5,7 @@
   <br>
 <p dir="auto">İsmim Burçak, 28 yaşındayım. Evli ve 1 çocuk babasıyım. Endüstri Mühendisliği mezunuyum ve bir yandan Bilgisayar Programcılığı bölümünde okuyorum. Bir süredir yazılım ile ilgileniyorum ve bu işi sevdiğimi farkettim. Çalışmayı seven ve sürekli öğrenmeyi benimseyen biriyim. Bu amaçla konfor alanımdan çıkmaya ve 5 yıllık Üretim Planlama deneyimimi bir kenara bırakarak yazılım ile ilgili birşeyler yapmaya karar verdim. İŞKUR destekli İstanbul Topkapı Üniversitesi'nin Nitelikli Bilişim Uzmanı Yetiştirme programı kapsamında 800 saatlik eğitim aldım. Eğitim süresince C#, .NET Core MVC, .NET CORE Web API, HTML, CSS, BOOTSTRAP, JavaScript, React konularına hakim oldum.
   <br>
-  Takım çalışmalarına yatkın olmak ile birlikte bulunduğum ortama çabuk adapte olabilmekteyim. Bilişim sektörü ve programlamaya yönelik almış olduğum eğitimlerin bana kazandırdığı nitelikleri kullanarak fayda sağlayabileceğim aynı zamanda bukazanımlarımın üzerine koyarak kendimi geliştirebileceğim bir kurumda çalışmayı hedeflemekteyim.</p>
+  Takım çalışmalarına yatkın olmak ile birlikte bulunduğum ortama çabuk adapte olabilmekteyim. Bilişim sektörü ve programlamaya yönelik almış olduğum eğitimlerin bana kazandırdığı nitelikleri kullanarak fayda sağlayabileceğim aynı zamanda bu kazanımlarımın üzerine koyarak kendimi geliştirebileceğim bir kurumda çalışmayı hedeflemekteyim.</p>
   
 <!--
 **burcaktezcan/burcaktezcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
