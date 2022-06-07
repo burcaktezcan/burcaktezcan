@@ -18,7 +18,7 @@
 </p>
 
 <details open="">
-  <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Programlama Dilleri&nbsp;</b></summary>
   <br>
   <p align="left" dir="auto">
     <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
