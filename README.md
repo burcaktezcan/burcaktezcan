@@ -1,14 +1,14 @@
 ### Merhaba 👋
 
 <details open="">
-  <summary><b><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>&nbsp;&nbsp;Hakkımda</b></summary>
   <br>
 <p dir="auto">İsmim Burçak, 28 yaşındayım. Evli ve 1 çocuk babasıyım. Endüstri Mühendisliği mezunuyum ve bir yandan Bilgisayar Programcılığı bölümünde okuyorum. Bir süredir yazılım ile ilgileniyorum ve bu işi sevdiğimi farkettim. Çalışmayı seven ve sürekli öğrenmeyi benimseyen biriyim. Bu amaçla konfor alanımdan çıkmaya ve 5 yıllık Üretim Planlama deneyimimi bir kenara bırakarak yazılım ile ilgili birşeyler yapmaya karar verdim. İŞKUR destekli İstanbul Topkapı Üniversitesi'nin Nitelikli Bilişim Uzmanı Yetiştirme programı kapsamında 800 saatlik eğitim aldım. Eğitim süresince C#, .NET Core MVC, .NET CORE Web API, HTML, CSS, BOOTSTRAP, JavaScript, React konularına hakim oldum.
   <br>
   Takım çalışmalarına yatkın olmak ile birlikte bulunduğum ortama çabuk adapte olabilmekteyim. Bilişim sektörü ve programlamaya yönelik almış olduğum eğitimlerin bana kazandırdığı nitelikleri kullanarak fayda sağlayabileceğim aynı zamanda bu kazanımlarımın üzerine koyarak kendimi geliştirebileceğim bir kurumda çalışmayı hedeflemekteyim.</p>
 </details>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>İletişim</strong></p>
 
 <p align="left" dir="auto">
 <a href="https://twitter.com/burcaktezcan" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burcaktezcan" height="30" width="40" style="max-width: 100%;"></a>
